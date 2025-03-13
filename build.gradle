@@ -1,0 +1,6 @@
+dependencies {
+    implementation "org.apache.arrow:arrow-memory-netty:9.0.0"
+    implementation "org.apache.arrow:arrow-vector:9.0.0"
+    implementation "org.apache.arrow:arrow-format:9.0.0"
+    implementation "org.apache.arrow:arrow-java-root:9.0.0"
+}
